@@ -1,3 +1,7 @@
+*{
+  margin: 0;
+}
+
 .p-container{
   border: 20px solid antiquewhite;
   margin-top: 2px;
